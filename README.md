@@ -1,11 +1,11 @@
 <!-- Banner principal con efecto de escritura -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Norma+Can%C3%BA+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Ing.+en+Ciencias+y+Sistemas+%7C+USAC+%F0%9F%8E%93;Frontend+%26+Software+Developer+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Normis+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Ing.+en+Ciencias+y+Sistemas+%7C+USAC+%F0%9F%8E%93;Frontend+%26+Software+Developer+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<!-- Frase especial con diseño tipográfico elegante -->
+<!-- Frase especial con la fuente original y color verde limón -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=32&pause=10000&color=EC4899&center=true&vCenter=true&width=400&lines=%E2%9C%A8+Cultivemos+Valores+%E2%9C%A8" alt="Cultivemos Valores" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=32&pause=10000&color=84CC16&center=true&vCenter=true&width=400&lines=Cultivemos+Valores" alt="Cultivemos Valores" />
 </p>
 
 <!-- Botones de Redes Sociales -->
@@ -27,8 +27,8 @@
 
 - 🎂 **20 años** 🇬🇹
 - 🎓 Estudiante de cuarto año de **Ingeniería en Ciencias y Sistemas** en la Universidad de San Carlos de Guatemala (USAC).
-- 💻 Apasionada por la tecnología y el desarrollo web.
-- ✨ Muy *girly*: amante del maquillaje, los gatitos 🐱 y la velocidad de la **Fórmula 1** 🏎️.
+- 💻 Apasionada por la tecnología, el desarrollo web y la creación de soluciones utilizando herramientas como **React y TypeScript**.
+- ✨ Amante del maquillaje, los gatitos 🐱 y la velocidad de la **Fórmula 1** 🏎️.
 
 ---
 
@@ -51,9 +51,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Normis77&show_icons=true&theme=rose&hide_border=true&bg_color=1a1b27&title_color=f472b6&icon_color=ec4899&text_color=ffffff" alt="Normis77 stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Normis77&layout=compact&theme=rose&hide_border=true&bg_color=1a1b27&title_color=f472b6&text_color=ffffff" alt="Top Langs" width="42%" />
-</p>
-
-<!-- Contador de visitas rosa y cool -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Normis77&color=ec4899&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitor Count" />
 </p>
