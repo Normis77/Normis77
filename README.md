@@ -26,8 +26,8 @@
 ### 🌸 Sobre mí
 
 - 🎂 **20 años** 🇬🇹
-- 🎓 Estudiante de cuarto año de **Ingeniería en Ciencias y Sistemas** en la Universidad de San Carlos de Guatemala (USAC).
-- 💻 Apasionada por la tecnología, el desarrollo web.
+- 🎓 Estudiante de cuarto año de **Ingeniería en Ciencias y Sistemas** en la Universidad de San Carlos de Guatemala.
+- 💻 Apasionada por la tecnología y el desarrollo web.
 - ✨ Amante del maquillaje, los gatitos 🐱 y la velocidad de la **Fórmula 1** 🏎️.
 
 ---
